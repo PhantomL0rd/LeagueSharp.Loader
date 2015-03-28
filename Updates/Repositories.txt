@@ -1,7 +1,6 @@
 Core Extensions
 ---------------
 <repo>https://github.com/LeagueSharp/LeagueSharpCommon</repo>
-<repo>https://github.com/LeagueSharp/LeagueSharp.Network</repo>
 
 Administrators
 --------------
@@ -45,6 +44,8 @@ Contributors
 
 Known Users
 -----------
+<repo>https://github.com/pean153/LeagueSharp</repo>
+<repo>https://github.com/soulcaliber/LeagueSharp</repo>
 <repo>https://github.com/alrik94/LeagueSharp</repo>
 <repo>https://github.com/blackyy/LeagueSharp</repo>
 <repo>https://github.com/Crisdmc/LeagueSharp</repo>
